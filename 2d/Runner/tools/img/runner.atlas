@@ -1,0 +1,48 @@
+
+runner.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bird
+  rotate: false
+  xy: 1924, 1419
+  size: 118, 100
+  orig: 118, 100
+  offset: 0, 0
+  index: -1
+police
+  rotate: false
+  xy: 646, 237
+  size: 149, 200
+  orig: 149, 200
+  offset: 0, 0
+  index: -1
+police1RunInvert
+  rotate: false
+  xy: 2, 51
+  size: 642, 184
+  orig: 642, 184
+  offset: 0, 0
+  index: -1
+sand
+  rotate: false
+  xy: 2, 2
+  size: 200, 47
+  orig: 200, 47
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 2, 439
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+terInv
+  rotate: false
+  xy: 2, 237
+  size: 642, 200
+  orig: 642, 200
+  offset: 0, 0
+  index: -1
