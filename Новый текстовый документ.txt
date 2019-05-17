@@ -1,1 +1,1 @@
-create blocks
+create blocks 4 5 6
